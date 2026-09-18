@@ -27,6 +27,8 @@ The four inputs are bolt size, holder width, DIN rail width allowance and rail s
 
 Rail width allowance ranges from **−0.50 to +0.50 mm**, applied to the 35.75 mm stop spacing and shared equally between the two ends. Sheet thickness ranges from **0.80 to 2.00 mm**. Both grooves include 0.20 mm clearance; the gap between the body support and spring latch stays at 0.40 mm.
 
+Both retaining lips extend 0.50 mm farther inward than in the initial release. Their default tip-to-tip gap is 31.80 mm; the rail registration spacing and sheet grooves stay the same.
+
 ## Printing and assembly
 
 Use the supplied side-print orientation. Suggested starting settings: **0.4 mm nozzle, 0.20 mm layers, Arachne, 6 walls, 60% gyroid infill, supports off**. A 4 mm outer brim can help bed adhesion; clear the spring gap afterwards.

@@ -1,0 +1,16 @@
+{
+  "DIN_clip_revision": 4,
+  "fuse_carrier_revision": 3,
+  "width_mm": 27,
+  "height_mm": 72.8,
+  "depth_mm": 25.2,
+  "bolt_pitch_mm": 50.8,
+  "rail_stop_spacing_mm": 35.75,
+  "retaining_tip_gap_mm": 31.8,
+  "sheet_groove_mm": 1.2,
+  "support_latch_gap_mm": 0.4,
+  "M8_recess_depth_mm": 6.3,
+  "M8_recess_AF_mm": 13.35,
+  "M4_screws": "M4 x 8 DIN 912",
+  "carrier_sha256": "cbb1edc4268869156ad4d3abd0e9dca661adb037594e1ade60a917d990dfe79b"
+}

@@ -9,8 +9,11 @@
 | Project | Browser tool | Files and guide |
 |---|---|---|
 | DIN rail distribution stud — M6 / M8 / M10 | [Open configurator](https://oliveres.github.io/3D/din-rail/) | [Project folder](din-rail/) |
+| DIN rail MEGA fuse holder — 2 × M8, 50.8 mm pitch | [Open configurator](https://oliveres.github.io/3D/mega-fuse/) | [Project folder](mega-fuse/) |
 
-The DIN rail project provides a common-potential connection point for cable lugs, for example in Victron Energy systems. Its offline package includes printable STL files, STEP models, an OpenSCAD source, a Bambu Studio project and printing instructions.
+The DIN rail project provides a common-potential connection point for cable lugs, for example in Victron Energy systems. The separate MEGA fuse project mounts a fuse vertically across the rail on a compact 27 mm carrier. Both packages include printable STL files, STEP models, an OpenSCAD source, a Bambu Studio project and printing instructions.
+
+Both projects use extended retaining lips: each tip reaches 0.50 mm farther inwards, while the rail registration faces and fuse carrier remain unchanged.
 
 ## One Pages site, multiple tools
 
@@ -21,7 +24,7 @@ Every tool has its own folder and `index.html`:
 ```text
 index.html                  → https://oliveres.github.io/3D/
 din-rail/index.html         → https://oliveres.github.io/3D/din-rail/
-your-next-tool/index.html   → https://oliveres.github.io/3D/your-next-tool/
+mega-fuse/index.html        → https://oliveres.github.io/3D/mega-fuse/
 ```
 
 To add another tool:
@@ -37,4 +40,4 @@ See [GitHub's Pages publishing documentation](https://docs.github.com/en/pages/g
 
 ## Credits and licensing
 
-See each project's credits and any licence supplied with it. For the DIN rail model, see [CREDITS.md](din-rail/CREDITS.md). No distribution licence for that new project has been selected yet; credits to reference designs are included.
+See each project's credits and any licence supplied with it. See the [distribution stud credits](din-rail/CREDITS.md) and [MEGA fuse holder credits](mega-fuse/CREDITS.md). No distribution licence for these new projects has been selected yet; credits to reference designs are included.

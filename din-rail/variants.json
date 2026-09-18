@@ -7,7 +7,8 @@
     "sheet": 1,
     "width_mm": 18,
     "stop_spacing_mm": 35.75,
-    "groove_mm": 1.2
+    "groove_mm": 1.2,
+    "retaining_tip_gap_mm": 31.8
   },
   {
     "name": "DIN_M6_2module_36mm",
@@ -17,7 +18,8 @@
     "sheet": 1,
     "width_mm": 36,
     "stop_spacing_mm": 35.75,
-    "groove_mm": 1.2
+    "groove_mm": 1.2,
+    "retaining_tip_gap_mm": 31.8
   },
   {
     "name": "DIN_M8_1module_18mm",
@@ -27,7 +29,8 @@
     "sheet": 1,
     "width_mm": 18,
     "stop_spacing_mm": 35.75,
-    "groove_mm": 1.2
+    "groove_mm": 1.2,
+    "retaining_tip_gap_mm": 31.8
   },
   {
     "name": "DIN_M8_2module_36mm",
@@ -37,7 +40,8 @@
     "sheet": 1,
     "width_mm": 36,
     "stop_spacing_mm": 35.75,
-    "groove_mm": 1.2
+    "groove_mm": 1.2,
+    "retaining_tip_gap_mm": 31.8
   },
   {
     "name": "DIN_M10_16_1p5module_27mm",
@@ -47,7 +51,8 @@
     "sheet": 1,
     "width_mm": 27,
     "stop_spacing_mm": 35.75,
-    "groove_mm": 1.2
+    "groove_mm": 1.2,
+    "retaining_tip_gap_mm": 31.8
   },
   {
     "name": "DIN_M10_16_2module_36mm",
@@ -57,7 +62,8 @@
     "sheet": 1,
     "width_mm": 36,
     "stop_spacing_mm": 35.75,
-    "groove_mm": 1.2
+    "groove_mm": 1.2,
+    "retaining_tip_gap_mm": 31.8
   },
   {
     "name": "DIN_M10_17_1p5module_27mm",
@@ -67,7 +73,8 @@
     "sheet": 1,
     "width_mm": 27,
     "stop_spacing_mm": 35.75,
-    "groove_mm": 1.2
+    "groove_mm": 1.2,
+    "retaining_tip_gap_mm": 31.8
   },
   {
     "name": "DIN_M10_17_2module_36mm",
@@ -77,6 +84,7 @@
     "sheet": 1,
     "width_mm": 36,
     "stop_spacing_mm": 35.75,
-    "groove_mm": 1.2
+    "groove_mm": 1.2,
+    "retaining_tip_gap_mm": 31.8
   }
 ]

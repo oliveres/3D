@@ -12,7 +12,7 @@ Open **index.html** in a desktop browser. It works offline and needs no installa
 
 Alternatively, choose an STL from the `STL` folder, or open **DIN_Rail_Bolt_Holder.scad** in OpenSCAD, use its Customizer, press **F6**, then **File → Export → Export as STL**.
 
-For Bambu Studio, `BambuStudio/DIN_M8_2module_36mm_X1C_PLA.3mf` contains the default M8 holder and suggested X1 Carbon / 0.4 mm nozzle / Generic PLA settings. Check the selected printer, filament and build plate before slicing. This is an editable, unsliced project, not printer-ready G-code.
+For Bambu Studio, `BambuStudio/DIN_M8_2module_36mm_X1C_PLA.3mf` contains the default M8 holder and suggested X1 Carbon / 0.4 mm nozzle / Generic PLA settings. Check the selected printer, filament and build plate before slicing. The editable project includes a sliced preview. Select your own printer, material and plate settings and slice again before printing.
 
 ## Four settings
 
@@ -29,6 +29,7 @@ One module is defined as **18 mm** in this model. The 27 mm option is 1.5 module
 
 - Nominal DIN rail width: **35 mm**.
 - Distance between the rail registration faces: **35.75 mm**.
+- Distance between the retaining tips: **31.80 mm** (each lip extended inward by 0.50 mm).
 - Rail sheet thickness: **1.00 mm**; both flange grooves: **1.20 mm**.
 - Clearance between the body support and spring latch: **0.40 mm**, maintained across the sheet-thickness range.
 - M8 holder width along the rail: **36 mm**.
@@ -84,3 +85,7 @@ This is a mechanical holder. It does not establish an electrical current rating 
 - `CHECKSUMS.sha256` — file integrity hashes.
 
 Digital validation covered 72 parameter combinations and comparison of 16 OpenSCAD/browser export pairs. All those meshes are closed, single solids. The support-to-latch gap was checked in every export. This does not replace a physical fit or load test of a chosen variant.
+
+## Retention update
+
+Both retaining lips were extended 0.50 mm towards the centre, including their insertion chamfers. This reduces the tip gap by 1.00 mm while preserving the rail registration faces, groove thickness, spring profile and bolt pocket. At +0.05 mm rail allowance, the tip gap is 31.85 mm; at the default 0.00 mm allowance it is 31.80 mm. The longer lips address reported accidental release; this revision still needs its own physical fit check.
