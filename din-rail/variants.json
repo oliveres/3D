@@ -1,0 +1,82 @@
+[
+  {
+    "name": "DIN_M6_1module_18mm",
+    "bolt": "M6",
+    "modules": 1,
+    "clearance": 0,
+    "sheet": 1,
+    "width_mm": 18,
+    "stop_spacing_mm": 35.75,
+    "groove_mm": 1.2
+  },
+  {
+    "name": "DIN_M6_2module_36mm",
+    "bolt": "M6",
+    "modules": 2,
+    "clearance": 0,
+    "sheet": 1,
+    "width_mm": 36,
+    "stop_spacing_mm": 35.75,
+    "groove_mm": 1.2
+  },
+  {
+    "name": "DIN_M8_1module_18mm",
+    "bolt": "M8",
+    "modules": 1,
+    "clearance": 0,
+    "sheet": 1,
+    "width_mm": 18,
+    "stop_spacing_mm": 35.75,
+    "groove_mm": 1.2
+  },
+  {
+    "name": "DIN_M8_2module_36mm",
+    "bolt": "M8",
+    "modules": 2,
+    "clearance": 0,
+    "sheet": 1,
+    "width_mm": 36,
+    "stop_spacing_mm": 35.75,
+    "groove_mm": 1.2
+  },
+  {
+    "name": "DIN_M10_16_1p5module_27mm",
+    "bolt": "M10_16",
+    "modules": 1.5,
+    "clearance": 0,
+    "sheet": 1,
+    "width_mm": 27,
+    "stop_spacing_mm": 35.75,
+    "groove_mm": 1.2
+  },
+  {
+    "name": "DIN_M10_16_2module_36mm",
+    "bolt": "M10_16",
+    "modules": 2,
+    "clearance": 0,
+    "sheet": 1,
+    "width_mm": 36,
+    "stop_spacing_mm": 35.75,
+    "groove_mm": 1.2
+  },
+  {
+    "name": "DIN_M10_17_1p5module_27mm",
+    "bolt": "M10_17",
+    "modules": 1.5,
+    "clearance": 0,
+    "sheet": 1,
+    "width_mm": 27,
+    "stop_spacing_mm": 35.75,
+    "groove_mm": 1.2
+  },
+  {
+    "name": "DIN_M10_17_2module_36mm",
+    "bolt": "M10_17",
+    "modules": 2,
+    "clearance": 0,
+    "sheet": 1,
+    "width_mm": 36,
+    "stop_spacing_mm": 35.75,
+    "groove_mm": 1.2
+  }
+]

@@ -1,0 +1,6 @@
+# Keep generated CAD and download files byte-for-byte intact.
+*.step binary
+*.stl binary
+*.3mf binary
+*.zip binary
+*.png binary
