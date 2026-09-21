@@ -29,6 +29,7 @@ One module is defined as **18 mm** in this model. The 27 mm option is 1.5 module
 
 - Nominal DIN rail width: **35 mm**.
 - Distance between the rail registration faces: **35.75 mm**.
+- U spring wall: **1.40 mm**; outer radius: **3.00 mm**.
 - Distance between the retaining tips: **31.80 mm** (each lip extended inward by 0.50 mm).
 - Rail sheet thickness: **1.00 mm**; both flange grooves: **1.20 mm**.
 - Clearance between the body support and spring latch: **0.40 mm**, maintained across the sheet-thickness range.
@@ -89,3 +90,7 @@ Digital validation covered 72 parameter combinations and comparison of 16 OpenSC
 ## Retention update
 
 Both retaining lips were extended 0.50 mm towards the centre, including their insertion chamfers. This reduces the tip gap by 1.00 mm while preserving the rail registration faces, groove thickness, spring profile and bolt pocket. At +0.05 mm rail allowance, the tip gap is 31.85 mm; at the default 0.00 mm allowance it is 31.80 mm. The longer lips address reported accidental release; this revision still needs its own physical fit check.
+
+## Spring update
+
+The U spring is thickened by 0.20 mm along its outside, increasing its nominal wall from 1.20 to 1.40 mm. The moving leg and release-notch wall meet without the former 0.10 mm shoulder. The inside of the U, retaining tips, rail fit and bolt recess stay unchanged. This adjustment follows print feedback that the previous spring released too easily; fitting and release force still need to be checked on the actual print.

@@ -1,5 +1,5 @@
 {
-  "DIN_clip_revision": 4,
+  "DIN_clip_revision": 5,
   "fuse_carrier_revision": 3,
   "width_mm": 27,
   "height_mm": 72.8,
@@ -12,5 +12,9 @@
   "M8_recess_depth_mm": 6.3,
   "M8_recess_AF_mm": 13.35,
   "M4_screws": "M4 x 8 DIN 912",
-  "carrier_sha256": "cbb1edc4268869156ad4d3abd0e9dca661adb037594e1ade60a917d990dfe79b"
+  "carrier_sha256": "cbb1edc4268869156ad4d3abd0e9dca661adb037594e1ade60a917d990dfe79b",
+  "U_spring_wall_mm": 1.4,
+  "U_spring_outer_offset_mm": 0.2,
+  "U_spring_outer_radius_mm": 3.0,
+  "spring_static_clearance_mm": 0.8
 }

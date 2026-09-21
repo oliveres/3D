@@ -7,7 +7,7 @@ This MEGA fuse holder and its two-parameter rail-fit configurator were construct
 
 The reference models were identified during development as CC BY 4.0. Preserve these credits and source links when publishing. See https://creativecommons.org/licenses/by/4.0/ for that reference licence. This statement credits the inspirations; it does not select a distribution licence for the new package.
 
-The rail-clip profile comes from the preceding distribution-stud project, refined using physical print feedback. The carrier was accepted during user refinement; this release keeps it unchanged and extends the two DIN retaining lips based on feedback about accidental release. The latest lip extension still needs its own fit check. They add two rear M8 head recesses at 50.8 mm pitch, a central body recess and two M4 attachment points. Rail width and sheet thickness are adjustable. CAD and configurator development used AI assistance.
+The rail-clip profile comes from the preceding distribution-stud project, refined using physical print feedback. The carrier was accepted during user refinement; this release keeps it unchanged and thickens the outside of the U spring by 0.20 mm following further feedback about easy release. The thicker spring needs its own fit check. The assembly has two rear M8 head recesses at 50.8 mm pitch, a central body recess and two M4 attachment points. Rail width and sheet thickness are adjustable. CAD and configurator development used AI assistance.
 
 Dimensional references:
 

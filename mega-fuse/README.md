@@ -2,7 +2,7 @@
 
 A compact, two-part holder for mounting a MEGA fuse vertically across a 35 mm DIN rail, for example in Victron Energy systems. Two M8 bolts have a fixed 50.8 mm centre spacing. Cable lugs attach at the two separate fuse terminals.
 
-The current package combines **DIN clip v4** with the accepted **fuse carrier v3**. Each retaining lip now reaches 0.50 mm farther towards the rail centre to address reported accidental release. The carrier is unchanged. One hook stays fixed and the opposite hook releases through a U-shaped spring and screwdriver notch.
+The current package combines **DIN clip v5** with the accepted **fuse carrier v3**. The U spring is thickened by 0.20 mm on the outside, increasing its nominal wall from 1.20 to 1.40 mm and removing the small shoulder at the release notch. The previously extended retaining tips remain unchanged. The carrier is unchanged. One hook stays fixed and the opposite hook releases through a U-shaped spring and screwdriver notch.
 
 [Open the live configurator](https://oliveres.github.io/3D/mega-fuse/) · [Download the complete offline package](MEGA_Fuse_Holder_Package.zip)
 
@@ -27,7 +27,8 @@ Open `index.html` in a browser to preview the assembly, inspect the profile or e
 | Gap between retaining tips | 31.80 mm |
 | Rail sheet thickness / flange grooves | 1.00 / 1.20 mm |
 | Support-to-latch gap | 0.40 mm |
-| Static clearance above the spring arch | 1.00 mm |
+| U spring wall / outer radius | 1.40 / 3.00 mm |
+| Static clearance above the spring arch | 0.80 mm |
 
 The fuse footprint follows the supplied drawing: 68.8 mm overall length, 50.8 mm hole pitch, 8.7 mm holes, a 29.2 × 19 mm central body and 16.2 mm wide terminals. The drawing did not specify the side profile; check the actual body underside against the recess.
 
@@ -51,11 +52,11 @@ Both STL files are already oriented on their side, with a print height of 27 mm,
 
 Rail allowance ranges from −0.50 to +0.50 mm. It changes the registration spacing of 35.75 mm and the retaining-tip gap of 31.80 mm by the same amount, shared equally between both ends. **At +0.05 mm allowance, the tip gap is 31.85 mm.** Sheet thickness ranges from 0.80 to 2.00 mm; each groove adds 0.20 mm clearance. The M8 pitch and carrier stay fixed.
 
-The previous clip and carrier were refined from user feedback. The extended lips are a new retention change and need a fit check on the actual rail; narrower/wider allowances and material changes affect fitting and release force.
+The previous clip and carrier were refined from user feedback. The thicker spring is a new retention change and needs a fit check on the actual rail; narrower/wider allowances and material changes affect fitting and release force.
 
 ## Files
 
-- `STL/MEGA_M8_clip_27mm_v4.stl` — current DIN clip with extended lips.
+- `STL/MEGA_M8_clip_27mm_v5.stl` — current DIN clip with a thicker U spring and extended lips.
 - `STL/MEGA_M8_carrier_27mm_v3.stl` — unchanged fuse carrier; an existing v3 print can be reused.
 - `STEP/` — both parts and their assembly in installed coordinates.
 - `MEGA_Fuse_Holder.scad` — both parts with rail allowance and sheet-thickness parameters; select `clip`, `carrier`, `layout` or `assembly`, render with F6, then export STL.

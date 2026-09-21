@@ -13,7 +13,7 @@
 
 The DIN rail project provides a common-potential connection point for cable lugs, for example in Victron Energy systems. The separate MEGA fuse project mounts a fuse vertically across the rail on a compact 27 mm carrier. Both packages include printable STL files, STEP models, an OpenSCAD source, a Bambu Studio project and printing instructions.
 
-Both projects use extended retaining lips: each tip reaches 0.50 mm farther inwards, while the rail registration faces and fuse carrier remain unchanged.
+Both projects use extended retaining lips and a U spring with 1.40 mm walls. The spring is thickened outwards by 0.20 mm, and its release-notch shoulder is removed. The inner spring opening, retaining-tip gap, rail registration faces and fuse carrier remain unchanged by this spring update.
 
 ## One Pages site, multiple tools
 

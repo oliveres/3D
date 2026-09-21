@@ -42,3 +42,5 @@ This is a mechanical holder, with no specified electrical current rating or cert
 ## Design credits
 
 The spring-clip mechanism was inspired by [Catatat / PlasticXYZ](https://www.printables.com/model/1753870-din-rail-clip-side-mount) and [kc2zgu / marauder156](https://www.printables.com/model/556742-adjustable-din-rail-clip-freecad). The holder geometry and configurator were built for this project and refined from physical print feedback, with AI assistance. See CREDITS.md in the package.
+
+The current U spring has 1.40 mm walls, thickened by 0.20 mm on the outside. Its inner opening and the retaining-tip gap are unchanged, and the release-notch shoulder is removed.
