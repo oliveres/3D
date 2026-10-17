@@ -1,0 +1,26 @@
+Geometry attribution and licence
+
+Original work: Rebar Safety Cap 6/8/10mm
+Author: Niklas (https://www.printables.com/@Niklas)
+Source: https://www.printables.com/model/1302065-rebar-safety-cap-6810mm
+Licence: Creative Commons Attribution-NonCommercial 4.0 International
+Licence text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+The user supplied the source file rebar_cap_8mm.stl. This package derives its
+spring section from that file. Modifications made on 2026-10-16: independent
+25–40 mm head diameter, rebuilt 2–8 mm closed base, flat printing face with
+1 mm bevel, nominal 6/8/10/12 mm radial variants, a hollow internal guide
+(nominal bar + 2 mm bore, 2 mm wall, 13 mm height), and a smooth external
+spring-waist reinforcement of up to 0.6 mm radially. Revision 3, dated
+2026-10-17, narrows the spring slots to approximately half their prior width,
+revises the upper reinforcement taper and refines the mesh sampling.
+Revision 4, dated 2026-10-17, replaces the outer neck with a C2 surface of
+revolution, retaining the nominal inner grip, guide and narrowed slot outlines.
+Revision 5, dated 2026-10-17, enlarges the head bevel to 3 × 3 mm at 45°,
+with an adjusted outer shoulder for bases thinner than 3 mm.
+The geometry in the
+STLs, embedded browser mesh and OpenSCAD model is distributed under
+CC BY-NC 4.0. Attribute the original author and identify these changes.
+No endorsement by the original author is implied.
+
+This is an untested fit prototype, not an impact-rated protective product.

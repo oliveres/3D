@@ -1,0 +1,558 @@
+{
+  "revision": 5,
+  "physical_fit_tested": false,
+  "impact_tested": false,
+  "variants": [
+    {
+      "bar": 6,
+      "base": 2,
+      "head": 25,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 8,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302684,
+      "volume_mm3": 4127.920415413707
+    },
+    {
+      "bar": 6,
+      "base": 2,
+      "head": 30,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 8,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302684,
+      "volume_mm3": 4765.95628576882
+    },
+    {
+      "bar": 6,
+      "base": 2,
+      "head": 40,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 8,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302684,
+      "volume_mm3": 6355.59142095553
+    },
+    {
+      "bar": 6,
+      "base": 4,
+      "head": 25,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 8,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302684,
+      "volume_mm3": 4961.413906707249
+    },
+    {
+      "bar": 6,
+      "base": 4,
+      "head": 30,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 8,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302684,
+      "volume_mm3": 5908.472391129518
+    },
+    {
+      "bar": 6,
+      "base": 4,
+      "head": 40,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 8,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302684,
+      "volume_mm3": 8272.889702334709
+    },
+    {
+      "bar": 6,
+      "base": 8,
+      "head": 25,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 8,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302684,
+      "volume_mm3": 6920.625755259458
+    },
+    {
+      "bar": 6,
+      "base": 8,
+      "head": 30,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 8,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302684,
+      "volume_mm3": 8729.737453044696
+    },
+    {
+      "bar": 6,
+      "base": 8,
+      "head": 40,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 8,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302684,
+      "volume_mm3": 13288.47203462837
+    },
+    {
+      "bar": 8,
+      "base": 2,
+      "head": 25,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 10,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302684,
+      "volume_mm3": 4585.316243581358
+    },
+    {
+      "bar": 8,
+      "base": 2,
+      "head": 30,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 10,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302684,
+      "volume_mm3": 5220.745789092354
+    },
+    {
+      "bar": 8,
+      "base": 2,
+      "head": 40,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 10,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302684,
+      "volume_mm3": 6805.168274590833
+    },
+    {
+      "bar": 8,
+      "base": 4,
+      "head": 25,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 10,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302684,
+      "volume_mm3": 5450.291666072113
+    },
+    {
+      "bar": 8,
+      "base": 4,
+      "head": 30,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 10,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302684,
+      "volume_mm3": 6397.356107368339
+    },
+    {
+      "bar": 8,
+      "base": 4,
+      "head": 40,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 10,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302684,
+      "volume_mm3": 8761.785332321453
+    },
+    {
+      "bar": 8,
+      "base": 8,
+      "head": 25,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 10,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302684,
+      "volume_mm3": 7409.503514624322
+    },
+    {
+      "bar": 8,
+      "base": 8,
+      "head": 30,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 10,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302684,
+      "volume_mm3": 9218.621169283519
+    },
+    {
+      "bar": 8,
+      "base": 8,
+      "head": 40,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 10,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302684,
+      "volume_mm3": 13777.367664615113
+    },
+    {
+      "bar": 10,
+      "base": 2,
+      "head": 25,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 12,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302675,
+      "volume_mm3": 5041.312488973658
+    },
+    {
+      "bar": 10,
+      "base": 2,
+      "head": 30,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 12,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302675,
+      "volume_mm3": 5674.135709640538
+    },
+    {
+      "bar": 10,
+      "base": 2,
+      "head": 40,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 12,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302675,
+      "volume_mm3": 7253.345545450786
+    },
+    {
+      "bar": 10,
+      "base": 4,
+      "head": 25,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 12,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302675,
+      "volume_mm3": 5939.864030868372
+    },
+    {
+      "bar": 10,
+      "base": 4,
+      "head": 30,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 12,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302675,
+      "volume_mm3": 6886.93442903856
+    },
+    {
+      "bar": 10,
+      "base": 4,
+      "head": 40,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 12,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302675,
+      "volume_mm3": 9251.375567739597
+    },
+    {
+      "bar": 10,
+      "base": 8,
+      "head": 25,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 12,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302675,
+      "volume_mm3": 7899.075879420582
+    },
+    {
+      "bar": 10,
+      "base": 8,
+      "head": 30,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 12,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302675,
+      "volume_mm3": 9708.199490953742
+    },
+    {
+      "bar": 10,
+      "base": 8,
+      "head": 40,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 12,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302675,
+      "volume_mm3": 14266.957900033252
+    },
+    {
+      "bar": 12,
+      "base": 2,
+      "head": 25,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 14,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302657,
+      "volume_mm3": 5495.909151590608
+    },
+    {
+      "bar": 12,
+      "base": 2,
+      "head": 30,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 14,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302657,
+      "volume_mm3": 6126.126047413374
+    },
+    {
+      "bar": 12,
+      "base": 2,
+      "head": 40,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 14,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302657,
+      "volume_mm3": 7700.12323353539
+    },
+    {
+      "bar": 12,
+      "base": 4,
+      "head": 25,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 14,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302657,
+      "volume_mm3": 6430.131001096033
+    },
+    {
+      "bar": 12,
+      "base": 4,
+      "head": 30,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 14,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302657,
+      "volume_mm3": 7377.2073561401785
+    },
+    {
+      "bar": 12,
+      "base": 4,
+      "head": 40,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 14,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302657,
+      "volume_mm3": 9741.660408589138
+    },
+    {
+      "bar": 12,
+      "base": 8,
+      "head": 25,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 14,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302657,
+      "volume_mm3": 8389.342849648243
+    },
+    {
+      "bar": 12,
+      "base": 8,
+      "head": 30,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 14,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302657,
+      "volume_mm3": 10198.47241805536
+    },
+    {
+      "bar": 12,
+      "base": 8,
+      "head": 40,
+      "closed": true,
+      "connected": true,
+      "guide_ID_mm": 14,
+      "guide_wall_mm": 2,
+      "guide_height_mm": 13,
+      "guide_to_shell_min_gap_mm": 0.7176994998302657,
+      "volume_mm3": 14757.242740882793
+    }
+  ],
+  "profile_checks": {
+    "C2_junctions": true,
+    "nonnegative_curvature": true,
+    "no_secondary_bump": true,
+    "inner_vertices_unchanged": true,
+    "guide_and_central_floor_unchanged": true,
+    "max_slot_tangential_change_mm": 4.440892098500626e-15,
+    "max_sampled_STL_radial_error_mm": 0.001268162166848441
+  },
+  "bevel_checks": {
+    "width_mm": 3,
+    "height_mm": 3,
+    "angle_deg": 45,
+    "default_flat_face_diameter_mm": 22,
+    "thin_base_and_3mm_transition_checked": true,
+    "neck_guide_and_inner_floor_identical_to_v4": true
+  },
+  "OpenSCAD": {
+    "default": {
+      "closed": true,
+      "volume_error_mm3": -0.001538915350465686
+    },
+    "small": {
+      "closed": true,
+      "volume_error_mm3": 0.0005766756530647399
+    },
+    "large": {
+      "closed": true,
+      "volume_error_mm3": -0.006090401280744118
+    }
+  },
+  "slicer": {
+    "application": "Bambu Studio",
+    "machine": "Bambu Lab X1 Carbon 0.4 mm",
+    "layer_height_mm": 0.2,
+    "wall_loops": 6,
+    "supports": false,
+    "material_profile": "Generic PLA (geometry check only)",
+    "jobs": {
+      "slicing_default": {
+        "result": "Success.",
+        "warning": "",
+        "estimated_seconds": 1873.642578125,
+        "filament_g": 6.582007884979248,
+        "objects": [
+          "Rebar_cap_8mm_head28_base3_v5.stl"
+        ]
+      },
+      "slicing_limits": {
+        "result": "Success.",
+        "warning": "",
+        "estimated_seconds": 3311.109130859375,
+        "filament_g": 22.966506958007812,
+        "objects": [
+          "check_12_8_40.stl",
+          "check_6_2_25.stl"
+        ]
+      }
+    }
+  },
+  "browser": {
+    "revision_shown": 5,
+    "thin_base_section_checked": true,
+    "installed_view_checked": true,
+    "console_errors": [],
+    "defaults_shown": {
+      "bar_mm": 8,
+      "base_thickness_mm": 3,
+      "head_diameter_mm": 28
+    }
+  },
+  "sha256": {
+    "LICENSE.txt": "53c0df7cc5e6743580cb778ead35113104b3a617861217685f57c7f42e1295b1",
+    "Preview_v5.jpg": "af23788cf05c6f1621c1fcf5c350505691f9f3192a4a855fbd03524ddc2a5cf3",
+    "README.md": "2b1c635c1015a21a03e7a7e25d7187687f8337d9c02a94a5963c20e6e2c8cc9a",
+    "Rebar_Cap_Parametric.scad": "25f3a0115b2223dadd0e924175ff17658cb1cd87ddf8456e383940aff2e3ccaa",
+    "Rebar_Cap_Parametric_v5.zip": "38c51393ed1fa30c080cbdef5ae9ca5b4a3bd0efb0e3c312aca531bde3913e4f",
+    "STL/Rebar_cap_10mm_head28_base3_v5.stl": "a5971b2a45bde8a53d15e59f68684c3f0a25fc7f3a953786b108443ba6ec8ed6",
+    "STL/Rebar_cap_12mm_head28_base3_v5.stl": "51abf184c1fbbddd8627d4945fb8b5c6a1fdbdbcbb288b79404646e846d9bd49",
+    "STL/Rebar_cap_6mm_head28_base3_v5.stl": "9d496db6595fcc75ff57192fc3bdcd327786dab6b9ed9a604ed460a11112056c",
+    "STL/Rebar_cap_8mm_head28_base3_v5.stl": "b08701dba1179ca1cc9323d313e69f0e1694470960cda0320674034dadacf6b3",
+    "images/01_cap_preview.jpg": "9cd7239fef80004b5cb05ffc17d5bac380085ba14813c430670f4e53a92b1b96",
+    "index.html": "38ed18b29098417a185972a175972043cb9bede37c091fe39753698f7782540d"
+  },
+  "defaults": {
+    "bar_mm": 8,
+    "base_thickness_mm": 3,
+    "head_diameter_mm": 28
+  },
+  "new_preset_exports": [
+    {
+      "bar_mm": 6,
+      "closed": true,
+      "browser_volume_error_mm3": -7.074066343193408e-05
+    },
+    {
+      "bar_mm": 8,
+      "closed": true,
+      "browser_volume_error_mm3": -5.955185952188913e-05
+    },
+    {
+      "bar_mm": 10,
+      "closed": true,
+      "browser_volume_error_mm3": -7.042201923468383e-05
+    },
+    {
+      "bar_mm": 12,
+      "closed": true,
+      "browser_volume_error_mm3": -9.946228419721592e-05
+    }
+  ],
+  "publication": {
+    "url": "https://oliveres.github.io/3D/rebar-cap/",
+    "defaults": {
+      "bar_mm": 8,
+      "base_thickness_mm": 3,
+      "head_diameter_mm": 28
+    }
+  }
+}
